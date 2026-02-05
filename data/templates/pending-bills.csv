@@ -1,0 +1,2 @@
+invoice_id,supplier_name,supplier_kra_pin,department,po_number,invoice_date,due_date,invoice_amount_kes,amount_paid_kes,balance_kes,status,county,notes
+INV-0001,Example Supplier Ltd,P000000000A,Ministry/Agency,PO-1001,2025-11-10,2025-12-10,250000,0,250000,unpaid,Nairobi,""
