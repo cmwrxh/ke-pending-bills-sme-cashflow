@@ -1,0 +1,5 @@
+invoice_id,supplier_name,department,invoice_date,due_date,invoice_amount_kes,amount_paid_kes,balance_kes,status,county
+A001,Supplier A,Health Dept,2025-10-10,2025-11-10,300000,100000,200000,partially_paid,Nairobi
+A002,Supplier B,Roads Agency,2025-09-05,2025-10-05,450000,0,450000,unpaid,Nakuru
+A003,Supplier C,Water Authority,2025-08-20,2025-09-20,150000,150000,0,paid,Kisumu
+A004,Supplier D,Education Dept,2025-07-15,2025-08-15,220000,50000,170000,partially_paid,Kiambu
